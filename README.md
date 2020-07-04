@@ -45,5 +45,9 @@ Next run in 5 min
 ## GRAFANA Stats
 
 <div align="center">
-    <img src="./grafana/S1.png" width="1024px"</img> 
+    <img src="./grafana/S1.png" width="1024px"</img>
+    <img src="./grafana/S2.png" width="1024px"</img> 
+    <img src="./grafana/S3.png" width="1024px"</img> 
+    <img src="./grafana/S4.png" width="1024px"</img> 
+    <img src="./grafana/S5.png" width="1024px"</img> 
 </div>
