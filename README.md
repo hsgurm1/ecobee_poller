@@ -44,4 +44,4 @@ Next run in 5 min
 ```
 ## GRAFANA Stats
 
-![Alt text](https://github.com/hsgurm1/ecobee_poller/tree/master/grafana/s1.png "S1")
+![Alt text](https://github.com/hsgurm1/ecobee_poller/tree/master/grafana/S1.png "S1")
