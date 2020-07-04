@@ -7,6 +7,8 @@ This repository helps with visibility into working of Ecobee Smart themostat.
   * Docker / Docker-compose is in running state
   * Influxdb setup
   * Grafana setup
+  * API and Refresh Token setup
+    * https://www.ecobee.com/home/developer/api/examples/ex1.shtml  
 
 
 ## To begin with install and run process:
@@ -40,3 +42,6 @@ Next run in 5 min
 2020-07-04 03:24:32,677 - ecobee - DEBUG - sensor readings written: 1
 2020-07-04 03:24:32,698 - ecobee - DEBUG - -----------------------------------
 ```
+## GRAFANA Stats
+
+![Alt text](./grafana/s1.png?raw=true "S1")
