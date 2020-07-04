@@ -1,8 +1,8 @@
 # ecobee_poller
-This repository helps with visibility into working of Ecobee Smart themostat.
+This repository helps with visibility into working of Ecobee Smart themostat for your Smart Home.
 
-* Stats are pulled from Ecobee API and indexed into InfluxDB, with Grafana Dashboard.
-* Ecobee-poller Dockerized version and update stats every 5 min.
+* Stats are pulled from Ecobee Sever using API and indexed into InfluxDB connected to Grafana Dashboard.
+* By Default, Ecobee_poller dockerized version updates stats every 5 min.
 * Pre-requisites:
   * Docker / Docker-compose is in running state
   * Influxdb setup
