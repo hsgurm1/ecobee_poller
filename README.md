@@ -51,3 +51,9 @@ Next run in 5 min
     <img src="./grafana/S4.png" width="1024px"</img> 
     <img src="./grafana/S5.png" width="1024px"</img> 
 </div>
+
+## Reference
+* https://github.com/matisku/tig-stack
+* https://www.ecobee.com/home/developer/api/introduction/index.shtml
+* https://github.com/thedancannon/ecobee_influxdb
+* https://www.ecobee.com/home/developer/api/examples/ex1.shtml 
