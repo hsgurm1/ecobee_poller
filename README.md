@@ -45,3 +45,8 @@ Next run in 5 min
 ## GRAFANA Stats
 
 ![DASHBOARD-VISUAL1](https://github.com/hsgurm1/ecobee_poller/tree/master/grafana/S1.png "S1")
+
+
+<div align="center">
+    <img src="./grafana/S1.png" width="400px"</img> 
+</div>
